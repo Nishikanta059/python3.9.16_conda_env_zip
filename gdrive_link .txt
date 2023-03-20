@@ -1,0 +1,6 @@
+gdrive_link : https://drive.google.com/file/d/1i6mDQelkjEKHVc4PVoyoJaVHoOI0WxFZ/view?usp=sharing
+
+
+
+
+https://pytorch.org/get-started/locally/
